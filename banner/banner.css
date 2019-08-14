@@ -1,0 +1,31 @@
+.wrapper
+{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+
+    text-align: left;
+    width: 1080px;
+    height: 50px;
+    background-color: black;
+}
+
+.outside
+{
+    color:yellow;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 30px;
+    background-color: transparent;
+
+    width: 550px;
+    height: 30px;
+
+    position: relative;
+    top: 10px;
+    left: 0px;
+  
+    transform: scale(1);
+    transition: transform 1s;
+    display: inline-block;
+}
