@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tab UI 만들기</title>
+        <link rel="stylesheet" href="./css/tab.css">
+    </head>
+    <body>
+        <div class="outer">
+            <h2>Tab UI 만들기</h2>
+
+            <div class="wrap">
+                <!--탭 메뉴-->
+                <nav class="tab-wrap">
+                    <ul class="tab">
+                        <li class="tab-menu active">crong</li>
+                        <li class="tab-menu">jk</li>
+                        <li class="tab-menu">pobi</li>
+                        <li class="tab-menu">honux</li>
+                    </ul>
+                </nav>
+                <!--본문-->
+                <section class="content">
+                    <h4>hello croong</h4>
+                    <p>golf, facebook</p>
+                </section>
+            </div>
+        </div>
+
+        <!--HTML 속에 숨겨둔 템플릿-->
+        <script id="template" type="text/template">
+                <h4>hello {name}</h4><p>{favorites}</p>
+        </script>
+
+        <script src="./js/tab.js"></script>
+    </body>
+</html>

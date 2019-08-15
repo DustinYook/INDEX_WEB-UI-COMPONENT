@@ -1,0 +1,52 @@
+.outer
+{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 
+{ 
+    text-align: center; 
+}
+
+h4 
+{ 
+    margin: 0px; 
+}
+
+.wrap
+{
+    width: 650px;
+    margin: 0px auto;
+}
+
+.tab
+{
+    list-style: none;
+    background-color: burlywood;
+    margin: 0px auto;
+}
+
+.tab-menu
+{
+    font-weight: bold;
+    display: inline-block;
+    width: 146px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.content 
+{
+    background-color: antiquewhite;
+    padding: 5%;
+}
+
+.active
+{
+    color: red;
+}
