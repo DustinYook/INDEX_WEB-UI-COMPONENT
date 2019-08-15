@@ -1,5 +1,6 @@
-# Project_WebUIComponent
-For web programming, I made some UI modules without using Bootstrap 
+# Web UI Component Repository
+I'll upload simple UI components for the future when I need them.
+Please feel free to use it, if anyone who wants to use or improve them. 
 
 ----- 
 
