@@ -1,0 +1,35 @@
+/* 
+    <경고>
+    실습에 사용된 이미지는 네이버의 저작권 하에 있으며 상업적인 목적으로 배포 및 사용을 금합니다.
+    이를 어길 경우 발생하는 모든 문제는 절대 책임지지 않습니다.
+*/
+
+.wrap
+{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    background: url("../img/bg_img.png") no-repeat;
+    border: 5px solid black;
+    box-shadow: gray 5px 5px;
+    padding: 15px;
+}
+
+.left
+{
+    position: relative;
+    top: 15px;
+    margin-right: 150px;
+    background: url("../img/sp_person_left.png") no-repeat;
+    height: 200px;
+    width: 160px;
+    display: inline-block;
+}
+
+.right
+{
+    background: url("../img/sp_person_right.png") no-repeat;
+    height: 275px;
+    width: 135px;
+    display: inline-block;
+}
