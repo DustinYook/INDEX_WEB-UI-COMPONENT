@@ -1,0 +1,59 @@
+/* 룰렛 CSS */
+.pin
+{
+    position: absolute;
+    top: 60px;
+    left: 720px;
+    background: url("../img/sprite.png") no-repeat;
+    width: 50px;
+    height: 75px;
+    background-position: -420px -190px;
+    z-index: 4;
+}
+
+.roulette
+{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    background: url("../img/roulette_inner.png") no-repeat;
+    width: 496px;
+    height: 496px;
+    z-index: 1;
+    transition: transform 1s;
+}
+
+.btn-border
+{
+    position: absolute;
+    top: 250px;
+    left: 650px;
+    background: url("../img/sprite.png") no-repeat;
+    width: 185px;
+    height: 185px;
+    background-position: -135px 0px;
+    z-index: 2;
+}
+
+.btn-inner
+{
+    position: absolute;
+    top: 270px;
+    left: 670px;
+    background: url("../img/sprite.png") no-repeat;
+    width: 143px;
+    height: 143px;
+    background-position: -155px -292px;
+    z-index: 3;
+    cursor: pointer;
+}
+
+.btn-inner:hover
+{
+    background-position: -306px -292px;
+}
+
+.btn-inner:active
+{
+    background-position: -3px -292px;
+}

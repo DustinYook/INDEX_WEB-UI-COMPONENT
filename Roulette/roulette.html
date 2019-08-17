@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>룰렛 만들기</title>
+        <link rel="stylesheet" href="./css/roulette.css">
+        <link rel="stylesheet" href="./css/popup.css">
+    </head>
+    <!--BODY-->
+    <body>
+        <!--ROULETTE-->
+        <div class="roulette-wrap">
+            <div class="pin"></div>
+            <div class="btn-inner"></div>
+            <div class="btn-border"></div>
+            <div class="roulette spin"></div>
+        </div>
+
+        <!--POP UP-->
+        <div class="popup-wrap">
+            <div class="popup-bg">
+                <input class="close" type="button" value="X">
+            </div>
+            <div class="popup-content"></div>
+        </div>
+
+        <!--TEMPLATE-->
+        <script id="template" type="text/template">
+            <h1>{title}</h1>
+            <p>{content}<p>
+        </script>
+
+        <script src="./js/popup.js"></script>
+        <script src="./js/roulette.js"></script>
+    </body>
+</html>

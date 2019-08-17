@@ -1,0 +1,75 @@
+/* 팝업 CSS */
+html, body
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.popup-wrap
+{
+   display: none;
+   z-index: 999;
+}
+
+.popup-bg
+{
+    width: 100%;
+    height: 100%;
+
+    opacity: 0.5;
+    background-color: black;
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    z-index: 999;
+}
+
+.close
+{
+    background: none;
+    color: white;
+    font-size: 3vw;
+    font-weight: bolder;
+    
+
+    /* 테두리 표시없애는 처리 */
+    border: 0; 
+    outline: 0;
+
+    position: absolute;
+    right: 40px;
+    top: 40px;
+
+    z-index: 999;
+}
+
+.close:hover
+{
+    color: red;
+    cursor: pointer;
+}
+
+.popup-content
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: white;
+
+    width: 600px;
+    height: 500px;
+    padding: 30px;
+
+    position: absolute;
+    left: 450px;
+    top: 50px;
+
+    z-index: 999;
+}
+
+.popup-content > p
+{
+    font-size: 1.3vw;
+}
