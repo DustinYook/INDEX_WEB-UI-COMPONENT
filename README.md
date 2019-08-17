@@ -22,7 +22,7 @@
 
 -----
 
-### 스프라이트 이미지 기반 동영상 모듈
+### [스프라이트 이미지 기반 동영상 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Sprite)
 ![Sprite_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Sprite_UI.gif)
 
 -----
