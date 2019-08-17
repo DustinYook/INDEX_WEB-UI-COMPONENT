@@ -1,0 +1,35 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.loading-wrap > img
+{
+    z-index: 999;
+
+    /* 수직 및 수평 중앙정렬 */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.message-box
+{
+    /* 수직 및 수평 중앙정렬 */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+    width: 500px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
