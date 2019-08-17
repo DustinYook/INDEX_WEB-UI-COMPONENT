@@ -27,5 +27,5 @@
 
 -----
 
-### 팝업창 모듈
+### [팝업창 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/PopUp)
 ![PopUp_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/PopUp_UI.gif)
