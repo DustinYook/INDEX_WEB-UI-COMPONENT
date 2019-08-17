@@ -12,7 +12,7 @@
 
 -----
 
-### 배너(전광판) 모듈
+### [배너(전광판) 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/banner)
 ![banner_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/banner_UI.gif)
 
 ----- 
