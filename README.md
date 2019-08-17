@@ -40,5 +40,5 @@
 
 -----
 
-### [로딩대기 모듈]
+### [로딩대기 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Loading)
 ![Loading_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Loading_UI.gif)
