@@ -24,3 +24,8 @@
 
 ### 스프라이트 이미지 기반 동영상 모듈
 ![Sprite_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Sprite_UI.gif)
+
+-----
+
+### 팝업창 모듈
+![PopUp_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/PopUp_UI.gif)
