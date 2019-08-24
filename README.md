@@ -47,3 +47,8 @@
 
 ### [자동 슬라이드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/AutoSlide)
 ![AutoSlide_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/AutoSlide_UI.gif)
+
+-----
+
+### [타이핑 효과 모듈]()
+![Typing_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Typing_UI.gif)
