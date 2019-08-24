@@ -1,0 +1,18 @@
+.wrap {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+
+.content {
+    background-color: black;
+    color: white;
+    width: 600px;
+    height: 60px;
+    font-size: 40px;
+    line-height: 40px;
+    display: none;
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
