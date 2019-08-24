@@ -50,5 +50,5 @@
 
 -----
 
-### [타이핑 효과 모듈]()
+### [타이핑 효과 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Typing)
 ![Typing_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Typing_UI.gif)
