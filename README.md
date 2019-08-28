@@ -10,38 +10,13 @@
 
 ----- 
 
-### [슬라이드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/slide)
-![Slide_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Slide_UI.gif)
-
------
-
-### [배너(전광판) 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/banner)
-![banner_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/banner_UI.gif)
+### [야간모드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/NightMode)
+![NightMode_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/NightMode_UI.gif)
 
 ----- 
 
-### [탭 메뉴 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Tab)
-![Tab_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/tab_UI.gif)
-
------
-
-### [스프라이트 이미지 기반 동영상 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Sprite)
-![Sprite_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Sprite_UI.gif)
-
------
-
-### [팝업창 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/PopUp)
-![PopUp_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/PopUp_UI.gif)
-
------
-
-### [룰렛 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Roulette)
-![Roulette_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Roulette_UI.gif)
-
------
-
-### [로딩대기 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Loading)
-![Loading_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Loading_UI.gif)
+### [타이핑 효과 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Typing)
+![Typing_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Typing_UI.gif)
 
 -----
 
@@ -50,10 +25,35 @@
 
 -----
 
-### [타이핑 효과 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Typing)
-![Typing_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Typing_UI.gif)
+### [로딩대기 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Loading)
+![Loading_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Loading_UI.gif)
 
------ 
+-----
 
-### [야간모드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/NightMode)
-![NightMode_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/NightMode_UI.gif)
+### [룰렛 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Roulette)
+![Roulette_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Roulette_UI.gif)
+
+-----
+
+### [팝업창 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/PopUp)
+![PopUp_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/PopUp_UI.gif)
+
+-----
+
+### [스프라이트 이미지 기반 동영상 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Sprite)
+![Sprite_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Sprite_UI.gif)
+
+-----
+
+### [탭 메뉴 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Tab)
+![Tab_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/tab_UI.gif)
+
+-----
+
+### [배너(전광판) 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/banner)
+![banner_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/banner_UI.gif)
+
+-----
+
+### [슬라이드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/slide)
+![Slide_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Slide_UI.gif)
