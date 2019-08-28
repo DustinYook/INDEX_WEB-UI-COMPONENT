@@ -11,7 +11,7 @@
 ----- 
 
 ### [슬라이드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/slide)
-![slide_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Slide_UI.gif)
+![slide_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Slide_UI.gif =300x300)
 
 -----
 
