@@ -1,0 +1,50 @@
+body{
+    color: black;
+}
+
+.mode-nav {
+    margin-top: 20px;
+}
+
+.mode-btn {
+    border: 0;
+    outline: 0;
+    font-size: 1.2vw;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 10px;
+    float: right;
+}
+
+.night-btn {
+    background-color: black;
+    color: white;
+    margin-right: 30px;
+}
+
+.day-btn {
+    border: 2px solid black;
+    padding: 3px;
+    background-color: white;
+    color: black;
+    margin-right: 15px;
+}
+
+.posts {
+    clear: both;
+    display: flex;
+}
+
+.articles > h1,p{
+    margin: 5px;
+}
+
+.articles {
+    padding: 10px;
+    border: 2px solid gray;
+    width: 30%;
+    height: 20%;
+    text-align: justify;
+    border-radius: 25px;
+    margin: 30px 10px;
+}
