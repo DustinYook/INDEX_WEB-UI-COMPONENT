@@ -52,3 +52,8 @@
 
 ### [타이핑 효과 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Typing)
 ![Typing_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Typing_UI.gif)
+
+----- 
+
+### [야간모드 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/NightMode)
+![NightMode_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/NightMode_UI.gif)
