@@ -1,0 +1,67 @@
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.wrap{
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+
+#myform{
+    display: flex;
+}
+
+.inputWrap{
+    width: 310px;
+    text-align: center;
+    margin: 0;
+}
+
+.email, .password{
+    width: 300px;
+    padding: 0;
+    margin: 0;
+}
+
+.email{
+    margin-bottom: 13px;
+}
+
+.email>span, .password>span{
+    width: 100px;
+    height: 20px;
+    line-height: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.email>span{
+    margin-right: 38px;
+}
+
+.email>input, .password>input{
+    width: 200px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.send-btn{
+    border: 0;
+    outline: 0;
+    width: 66px;
+    height: 66px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #468499;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.send-btn:hover{
+    border: 2px solid #468499;
+    color: #468499;
+    background-color: white;
+}
