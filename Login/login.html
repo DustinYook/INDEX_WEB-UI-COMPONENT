@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta name='description' content=''>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <title>로그인</title>
+        <link rel="stylesheet" href="./css/login.css">
+    </head>
+    <body>
+        <div class='wrap'>
+            <h1>Join my website!</h1>
+            <!--입력 폼 양식-->
+            <div class='formWrap'>
+                <form action='/join' method='post' id='myform'>
+                    <div class='inputWrap'>
+                        <div class='email'>
+                            <span> Email </span> 
+                            <input type='text' name='email' title="반드시 이메일 형식을 지켜서 입력해주세요."><br/>
+                        </div>
+                        <div class='password'>
+                            <span> Password </span> 
+                            <input type='password' name='password' maxlength="13" title="비밀번호는 8~13자리로 영대소문자, 숫자, 특수기호를 반드시 하나 이상 포함해야합니다."><br/>
+                        </div>
+                    </div>
+                    <input class='send-btn' type='submit' value='Submit'>
+                </form>
+            </div>
+             <!--유효성 검증결과 출력-->
+            <section class='checked-result'></section>
+        </div>
+
+        <script src="./js/login.js"></script>
+    </body>
+</html>
