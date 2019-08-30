@@ -11,9 +11,11 @@
 -----
 
 ### [로그인 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Login)
+
 - 정규표현식을 이용하여 클라이언드 사이드에서 유효성 검증 (이메일, 패스워드 형식 체크)
 - 패스워드는 영대소문자, 숫자, 특수문자를 반드시 하나 이상 포함하고 8자리에서 13자리 사이로 입력해야 유효
 - 아이디와 비밀번호가 모두 유효하면 로그인 버튼이 회전하여 로그인 가능함을 사용자에게 알려줌
+
 ![Login_UI](https://github.com/DustinYook/Project_WebUIComponent/blob/master/image/Login_UI.gif)
 
 ----- 
