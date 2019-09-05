@@ -10,9 +10,14 @@
 
 -----
 
+### [사진확대 모듈](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/tree/master/Photo)
+
+-----
+
 ### [시계 모듈](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/tree/master/Clock)
 ![](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/blob/master/image/Clock_UI.gif)
 
+-----
 
 ### [로그인 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Login)
 
