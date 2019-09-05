@@ -11,11 +11,12 @@
 -----
 
 ### [사진확대 모듈](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/tree/master/Photo)
+![Photo_UI](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/blob/master/image/Photo_UI.gif)
 
 -----
 
 ### [시계 모듈](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/tree/master/Clock)
-![](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/blob/master/image/Clock_UI.gif)
+![Clock_UI](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/blob/master/image/Clock_UI.gif)
 
 -----
 
