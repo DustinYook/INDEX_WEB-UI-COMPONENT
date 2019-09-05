@@ -10,6 +10,10 @@
 
 -----
 
+### [시계 모듈](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/tree/master/Clock)
+![](https://github.com/DustinYook/MODULE_WEB-UI-COMPONENT/blob/master/image/Clock_UI.gif)
+
+
 ### [로그인 모듈](https://github.com/DustinYook/Project_WebUIComponent/tree/master/Login)
 
 - 정규표현식을 이용하여 클라이언드 사이드에서 유효성 검증 (이메일, 패스워드 형식 체크)
